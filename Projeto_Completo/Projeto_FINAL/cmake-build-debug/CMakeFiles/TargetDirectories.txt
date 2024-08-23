@@ -1,0 +1,3 @@
+C:/Users/Kevin Dourado/Desktop/Projeto_FINAL/cmake-build-debug/CMakeFiles/Projeto_FINAL.dir
+C:/Users/Kevin Dourado/Desktop/Projeto_FINAL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kevin Dourado/Desktop/Projeto_FINAL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
