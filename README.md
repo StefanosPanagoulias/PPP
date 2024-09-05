@@ -30,3 +30,7 @@ To compile and run the application, follow these steps:
 4. Execute the program with `./main`.
 
 Once the program is running, a menu will appear with various navigation options.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
